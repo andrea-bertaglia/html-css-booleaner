@@ -24,3 +24,13 @@ h6 {
 .author {
     color: #4ea0ff;
 }
+
+.picture {
+    width: 45%;
+    height: 200px;
+}
+
+.caption {
+    font-size: 7px;
+    font-weight: 100;
+}
