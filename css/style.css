@@ -34,3 +34,13 @@ h6 {
     font-size: 7px;
     font-weight: 100;
 }
+
+.text {
+    font-size: 12px;
+}
+
+strong {
+    font-weight: 100;
+    background-color: yellow
+}
+
